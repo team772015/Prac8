@@ -11,7 +11,7 @@ MEMBER 3 Chenyang(Lily) Wang
 	
 	Role in projecet: programmer
 
-	Preferred branch of engineering: Civil Engineering
+	Preferred branch of engineering: civil
  
 MEMBER 4 NAWFAL
 
