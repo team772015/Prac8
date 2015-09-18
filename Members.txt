@@ -10,6 +10,15 @@ Role in project: document editor
  
 Preferred branch of engineering: haven't decided
  
-MEMBER 3 LILY
+MEMBER 3 Chenyang(Lily) Wang
+
+
+	My name is Chenyang Wang, 21 years old. I come from China.
+	
+	Role in projecet: programmer
+
+	Preferred branch of engineering: Civil
  
 MEMBER 4 NAWFAL
+
+
