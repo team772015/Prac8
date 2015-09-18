@@ -1,6 +1,12 @@
 LIST OF MEMBERS FOR TEAM 77
  
 MEMBER 1 RALPH 
+
+	Brief introduction
+ 
+	Role in project: (e.g. team leader, assignment uploader, programmer, etc)
+ 
+	Preferred branch of engineering: (e.g. electrical, mechanical, etc)
  
 MEMBER 2 JONATHAN
 
